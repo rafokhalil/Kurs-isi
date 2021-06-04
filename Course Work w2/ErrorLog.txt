@@ -1,0 +1,20 @@
+Error Code:Error 100 
+Error Source:C:\Users\Rikob\source\repos\Course Work w2\Course Work w2\Management Section.h 
+Error Line:68 
+Error Date:Jan 17 2021 
+Error Time:02:14:57 
+Error Code:Error 103 
+Error Source:C:\Users\Rikob\source\repos\Course Work w2\Course Work w2\Management Section.h 
+Error Line:169 
+Error Date:Jan 17 2021 
+Error Time:12:01:08 
+Error Code:Error 103 
+Error Source:C:\Users\Rikob\source\repos\Course Work w2\Course Work w2\Management Section.h 
+Error Line:239 
+Error Date:Jan 17 2021 
+Error Time:15:12:11 
+Error Code:Error 103 
+Error Source:C:\Users\Rikob\source\repos\Course Work w2\Course Work w2\Management Section.h 
+Error Line:239 
+Error Date:Jan 17 2021 
+Error Time:15:12:11 

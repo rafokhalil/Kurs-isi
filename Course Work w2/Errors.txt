@@ -1,0 +1,4 @@
+Error 100:Table number has entered wrong.
+Error 101:Admin username/password entered wrong.
+Error 102:Hack attemp to admin panel.
+Error 103:Invalid menu select.
