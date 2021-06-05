@@ -116,7 +116,7 @@ void startProgramWithTableNo() {
 	Admin adminObj;
 	string tableNo;
 	cout << "\t\t\t\t" << char(218); for (int i = 0; i < 40; i++)cout << char(196); cout << char(191) << endl;
-	cout << "\t\t\t\t" << char(179) << "  Welcome to " << restaurant.getName() << " Restourant  " << char(179) << endl;
+	cout << "\t\t\t\t" << char(179) << "	Welcome to " << restaurant.getName() << " Restourant    \t " << char(179) << endl;
 	cout << "\t\t\t\t" << char(192); for (int i = 0; i < 40; i++)cout << char(196); cout << char(217) << endl;
 	cout << "\n\t\t\t\t\t     Table Number : "; std::cin >> tableNo;
 	static Table tableNumber(tableNo);
@@ -180,7 +180,7 @@ void client() {
 	cout << "\t\t\t\t\t" << char(179) << "       10.Ickiler         " << char(179) << endl;
 	cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 	cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-	cout << "\t\t\t\t\t" << char(179) << "     Previous Menu : 0     " << char(179) << endl;
+	cout << "\t\t\t\t\t" << char(179) << "     Previous Menu: 0     " << char(179) << endl;
 	cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 
 	int opt;
@@ -240,16 +240,16 @@ void client() {
 }
 void selectionMenu() {
 		cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-		cout << "\t\t\t\t\t" << char(179) << "       Main Menu : 0        " << char(179) << endl;
+		cout << "\t\t\t\t\t" << char(179) << "       Main Menu: 0      " << char(179) << endl;
 		cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 		cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-		cout << "\t\t\t\t\t" << char(179) << "       Meal List : 1       " << char(179) << endl;
+		cout << "\t\t\t\t\t" << char(179) << "       Meal List: 1      " << char(179) << endl;
 		cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 		cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-		cout << "\t\t\t\t\t" << char(179) << "      Search Meal : 2      " << char(179) << endl;
+		cout << "\t\t\t\t\t" << char(179) << "      Search Meal: 2     " << char(179) << endl;
 		cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 		cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-		cout << "\t\t\t\t\t" << char(179) << " Info About Restaurant : 3 " << char(179) << endl;
+		cout << "\t\t\t\t\t" << char(179) << " Info About Restaurant: 3" << char(179) << endl;
 		cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 		int option;
 		cout << "\n\t\t\t\t\t      Your Choice : "; cin >> option;

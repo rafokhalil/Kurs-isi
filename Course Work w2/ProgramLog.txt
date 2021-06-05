@@ -442,3 +442,39 @@ Time : 14:45:48
 Notification : Meal Ordered 
 Date : Jun  4 2021 
 Time : 14:45:48 
+Notification : Customer logged in 
+Date : Jun  4 2021 
+Time : 21:40:30 
+Notification : Meal Ordered 
+Date : Jun  4 2021 
+Time : 21:40:30 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:17:14 
+Notification : Meal Ordered 
+Date : Jun  5 2021 
+Time : 12:17:14 
+Notification : Meal Ordered 
+Date : Jun  5 2021 
+Time : 12:17:14 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:24:05 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:27:44 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:27:59 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:28:36 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:28:36 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:30:27 
+Notification : Customer logged in 
+Date : Jun  5 2021 
+Time : 12:30:49 

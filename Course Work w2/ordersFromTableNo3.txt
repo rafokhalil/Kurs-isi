@@ -1,4 +1,4 @@
-Table No:3
-Meal Name:Gurza
-Meal Amount:1
-Order Time:14:20:20
+Table No : 3
+Meal Name : Antrikot
+Meal Amount : 5
+Order Time : 12:17:14

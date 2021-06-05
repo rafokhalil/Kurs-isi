@@ -23,6 +23,7 @@
     <ProjectGuid>{8F8ED113-2177-46E8-B039-22178837E6B3}</ProjectGuid>
     <RootNamespace>CourseWorkw2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Restaurant managemant</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

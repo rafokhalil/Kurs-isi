@@ -59,7 +59,7 @@ void startersFunc() {
 	Starters::KrivetkaTarTarSoslu krivetka2("Tartar soslu krivetka ");
 	Starters::Terevezler assort2("Terevezler");
 	cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-	cout << "\t\t\t\t\t" << char(179) << "        Starters         " << char(179) << endl;
+	cout << "\t\t\t\t\t" << char(179) << "        Bashlangiclar         " << char(179) << endl;
 	cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 	cout << "1."; qaraKuru.printMealandPrice();
 	cout << "2."; qirmiziKuru.printMealandPrice();
@@ -142,7 +142,7 @@ void saladFunc() {
 	Salads::KingSalad kingSalad("King Salad");
 	Salads::MimosaSalad mimosaSalad("Mimosa Salad");
 	cout << "\t\t\t\t\t" << char(218); for (int i = 0; i < 25; i++)cout << char(196); cout << char(191) << endl;
-	cout << "\t\t\t\t\t" << char(179) << "         Salads          " << char(179) << endl;
+	cout << "\t\t\t\t\t" << char(179) << "       Salads       " << char(179) << endl;
 	cout << "\t\t\t\t\t" << char(192); for (int i = 0; i < 25; i++)cout << char(196); cout << char(217) << endl;
 	std::cout << "1."; capitalSalad.printMealandPrice();
 	std::cout << "2."; chickenSalad.printMealandPrice();
@@ -236,9 +236,9 @@ void doughMealsFunc() {
 	std::cout << "2."; gurza.printMealandPrice();
 	std::cout << "3."; xangal.printMealandPrice();
 	int opt2;
-	cout << "\t\t\t\t\t\Return to previous menu:0\n";
+	cout << "\t\t\t\t\t\Return to previous menu main: 0\n";
 	cout << "\t\t\t\tEnter id to get more information about meal\n";
-	cout << "\t\t\t\t\t    Your Choice:"; cin >> opt2;
+	cout << "\t\t\t\t\t    Your Choice : "; cin >> opt2;
 	if (opt2 == 0) {
 		client();
 	}
